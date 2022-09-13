@@ -1,7 +1,7 @@
 {
   "Version": "2.62",
   "ReleaseNotes": "Nova atualizacao JARVISVPN. Clique para atualizar!",
-  "UrlUpdate": "https://www.jarvisvpn.com.br/payloads/pay.json",
+  "UrlUpdate": "https://raw.githubusercontent.com/mi071/pay/main/payload",
   "Sms": "",
   "EmailFeedback": "alamosbr@gmail.com",
   "UrlContato": "https://api.whatsapp.com/send?phone=5585991509807&text=Contato do APP",
